@@ -75,4 +75,4 @@ client.on('message', msg => {
       xhr.setRequestHeader('passkey', 'Bar');
   }
 
-client.login('NjQ5Mjk0NTY5MjI5Mzg1NzM4.Xd6zUA.HFJcExLY1xwScyBilutfuXqba54');
+client.login('<expired>');
